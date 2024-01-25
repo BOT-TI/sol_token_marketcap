@@ -3,10 +3,6 @@ To run the script you must have Python installed on your pc. https://www.python.
 
 Get fast, free and efficient node: https://www.quicknode.com/?via=bottl
 
-How to run:
-Open terminal/powershell in the folder:
-pip install -r requirements.txt
-
 Run the script:
 python3 main.py
 
